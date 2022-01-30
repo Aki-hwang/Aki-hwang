@@ -17,6 +17,11 @@ My Tools and Languages
 
 Reach me Via👇
 -
+<a href="https://www.linkedin.com/in/chuljin-aki2020//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+
+
+
 
 <!--
 **Aki-hwang/Aki-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
