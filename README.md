@@ -2,7 +2,10 @@
 
 About me
 -
-I'm a very very focused person, I love technology and learning in general but coding and typing is my passion.
+I'm a very focused person, I love technology and learning in general.
+
+My background in flash memory circuit design, label-free biosensor, and pharmacy made me adapt rapidly to various fields.
+
 
 ✨ Always learning something new
 
