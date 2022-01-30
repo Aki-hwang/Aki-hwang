@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+About me
+
+
+ --------------
 I'm a very very focused person, I love technology and learning in general but coding and typing is my passion.
 
 ✨ Always learning something new
