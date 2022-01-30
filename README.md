@@ -17,7 +17,7 @@ My Tools and Languages
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
-![JS](https://img.shields.io/badge/Adobe Photoshop-#31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white)
+![JS](https://img.shields.io/badge/Adobe%20Photoshop-#31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 
 
 Reach me Via👇
