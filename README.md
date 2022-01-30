@@ -19,7 +19,8 @@ Reach me Via👇
 -
 <a href="https://www.linkedin.com/in/chuljin-aki2020//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-[![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=SeongilHeo)](https://github.com/anuraghazra/github-readme-stats)
+Github Stats
+-
 <img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 
 <!--
