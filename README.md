@@ -21,7 +21,9 @@ Reach me Via👇
 
 Github Stats
 -
-(https://github-readme-stats.vercel.app/api?username=Aki-Hwang)](https://github.com/anuraghazra/github-readme-stats)
+[![Aki-Hwang's github stats](https://github-readme-stats.vercel.app/api?username=Aki-Hwang)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
