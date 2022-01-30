@@ -21,7 +21,7 @@ Reach me Via👇
 
 Github Stats
 -
-<img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aki-Hwang&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 
 <!--
 **Aki-hwang/Aki-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
