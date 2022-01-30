@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a very very focused person, I love technology and learning in general but coding and typing is my passion.
+
+✨ Always learning something new
+
+🖥 Making beautiful ios apps using SwiftUi
+
+
 <!--
 **Aki-hwang/Aki-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
