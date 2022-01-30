@@ -15,6 +15,9 @@ My Tools and Languages
 -
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+![JS](https://img.shields.io/badge/Adobe Photoshop-#31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white)
 
 
 Reach me Via👇
