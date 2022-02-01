@@ -18,8 +18,8 @@ My Tools and Languages
 ## Certifications 
 
 - [Engineer Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)
-- [Adobe Certified Professional in Visual Design Using Adobe Photoshop] (https://edex.adobe.com/teaching-resources/v97ccf4fe)
-- [Google Analytics Individual Qualification] (https://skillshop.exceedlms.com/student/path/2938-google-analytics-individual-qualification)
+- [Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://edex.adobe.com/teaching-resources/v97ccf4fe)
+- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/path/2938-google-analytics-individual-qualification)
 
 Reach me Via👇
 -
