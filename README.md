@@ -16,7 +16,7 @@ My background in flash memory circuit design, label-free biosensor, and pharmacy
 
 My Tools and Languages
 -
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![php](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![php](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
 
 ## Certifications 
 
