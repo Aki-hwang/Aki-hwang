@@ -1,4 +1,7 @@
-### Hi there 👋
+Chuljin Hwnag
+-
+[chljin.hwang@gmail.com](mailto:chljin.hwang@gmail.com) \
+***IOS Developer***
 
 About me
 -
