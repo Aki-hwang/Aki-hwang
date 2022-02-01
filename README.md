@@ -15,6 +15,10 @@ My Tools and Languages
 -
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+## CERTIFICATIONS
+
+- [Engineer Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)
+
 Reach me Via👇
 -
 <a href="https://www.linkedin.com/in/chuljin-aki2020//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
