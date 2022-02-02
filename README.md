@@ -1,4 +1,4 @@
-Chuljin Hwnag
+Chuljin Hwang
 -
 [chljin.hwang@gmail.com](mailto:chljin.hwang@gmail.com) \
 ***IOS Developer***
