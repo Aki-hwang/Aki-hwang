@@ -26,7 +26,7 @@ My Tools and Languages
 
 Reach me Via👇
 -
-<a href="https://www.linkedin.com/in/chuljin-aki2020//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chljin.hwang@gmail.com)](mailto:chljin.hwang@gmail.com) <img src="https://img.shields.io/badge/-Portfolio-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+<a href="https://www.linkedin.com/in/chuljin-aki2020//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chljin.hwang@gmail.com)](mailto:chljin.hwang@gmail.com) <a href="https://airy-sugar-f7f.notion.site/Chuljin-Hwang-663deb10bb1241bd8158f2f50019a6b5" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 
 
