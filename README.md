@@ -27,6 +27,10 @@ My Tools and Languages
 Reach me Via👇
 -
 <a href="https://www.linkedin.com/in/chuljin-aki2020//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.notion.so/Chuljin-Hwang-663deb10bb1241bd8158f2f50019a6b5" target="_blank"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<Portfolio>&color=<important>"/></a>
+
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chljin.hwang@gmail.com)](mailto:chljin.hwang@gmail.com)
 
 Github Stats
