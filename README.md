@@ -1,7 +1,7 @@
 Chuljin Hwang
 -
 [chljin.hwang@gmail.com](mailto:chljin.hwang@gmail.com)\
-***IOS Developer***
+***OS Developer***
 
 About me
 -
