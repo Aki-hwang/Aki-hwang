@@ -12,7 +12,7 @@ My background in flash memory circuit design, label-free biosensor, and pharmacy
 
 ✨ Always learning something new
 
-🖥 Making beautiful ios apps using SwiftUi
+🖥 Making beautiful iOS apps using SwiftUi
 
 My Tools and Languages
 -
