@@ -5,14 +5,6 @@ Chuljin Hwang
 
 About me
 -
-I'm a very focused person, I love technology and learning in general.
-
-My background in flash memory circuit design, label-free biosensor, and pharmacy made me adapt rapidly to various fields.
-
-
-✨ Always learning something new
-
-🖥 Making beautiful iOS apps using SwiftUi
 
 My Tools and Languages
 -
